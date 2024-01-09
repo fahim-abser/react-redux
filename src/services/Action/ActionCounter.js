@@ -10,7 +10,7 @@ export const decrementCounter=()=>{
         type: DECREMENT
     }
 }
-export const resetCounter=()=>{
+export const resetCounters=()=>{
     return{
         type: RESET
     }
